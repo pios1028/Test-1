@@ -1,0 +1,16 @@
+D:\New folder\Ex2\Exercise3\bin\Debug\net5.0\Exercise3.exe
+D:\New folder\Ex2\Exercise3\bin\Debug\net5.0\Exercise3.deps.json
+D:\New folder\Ex2\Exercise3\bin\Debug\net5.0\Exercise3.runtimeconfig.json
+D:\New folder\Ex2\Exercise3\bin\Debug\net5.0\Exercise3.runtimeconfig.dev.json
+D:\New folder\Ex2\Exercise3\bin\Debug\net5.0\Exercise3.dll
+D:\New folder\Ex2\Exercise3\bin\Debug\net5.0\ref\Exercise3.dll
+D:\New folder\Ex2\Exercise3\bin\Debug\net5.0\Exercise3.pdb
+D:\New folder\Ex2\Exercise3\obj\Debug\net5.0\Exercise3.csproj.AssemblyReference.cache
+D:\New folder\Ex2\Exercise3\obj\Debug\net5.0\Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Ex2\Exercise3\obj\Debug\net5.0\Exercise3.AssemblyInfoInputs.cache
+D:\New folder\Ex2\Exercise3\obj\Debug\net5.0\Exercise3.AssemblyInfo.cs
+D:\New folder\Ex2\Exercise3\obj\Debug\net5.0\Exercise3.csproj.CoreCompileInputs.cache
+D:\New folder\Ex2\Exercise3\obj\Debug\net5.0\Exercise3.dll
+D:\New folder\Ex2\Exercise3\obj\Debug\net5.0\ref\Exercise3.dll
+D:\New folder\Ex2\Exercise3\obj\Debug\net5.0\Exercise3.pdb
+D:\New folder\Ex2\Exercise3\obj\Debug\net5.0\Exercise3.genruntimeconfig.cache

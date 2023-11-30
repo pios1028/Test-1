@@ -1,0 +1,15 @@
+D:\New folder\Ex2\Exercise1\bin\Debug\net5.0\Exercise1.exe
+D:\New folder\Ex2\Exercise1\bin\Debug\net5.0\Exercise1.deps.json
+D:\New folder\Ex2\Exercise1\bin\Debug\net5.0\Exercise1.runtimeconfig.json
+D:\New folder\Ex2\Exercise1\bin\Debug\net5.0\Exercise1.runtimeconfig.dev.json
+D:\New folder\Ex2\Exercise1\bin\Debug\net5.0\Exercise1.dll
+D:\New folder\Ex2\Exercise1\bin\Debug\net5.0\ref\Exercise1.dll
+D:\New folder\Ex2\Exercise1\bin\Debug\net5.0\Exercise1.pdb
+D:\New folder\Ex2\Exercise1\obj\Debug\net5.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Ex2\Exercise1\obj\Debug\net5.0\Exercise1.AssemblyInfoInputs.cache
+D:\New folder\Ex2\Exercise1\obj\Debug\net5.0\Exercise1.AssemblyInfo.cs
+D:\New folder\Ex2\Exercise1\obj\Debug\net5.0\Exercise1.csproj.CoreCompileInputs.cache
+D:\New folder\Ex2\Exercise1\obj\Debug\net5.0\Exercise1.dll
+D:\New folder\Ex2\Exercise1\obj\Debug\net5.0\ref\Exercise1.dll
+D:\New folder\Ex2\Exercise1\obj\Debug\net5.0\Exercise1.pdb
+D:\New folder\Ex2\Exercise1\obj\Debug\net5.0\Exercise1.genruntimeconfig.cache
