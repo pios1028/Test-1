@@ -1,0 +1,16 @@
+D:\New folder\Lesson3(2)\EX7\bin\Debug\net5.0\EX7.exe
+D:\New folder\Lesson3(2)\EX7\bin\Debug\net5.0\EX7.deps.json
+D:\New folder\Lesson3(2)\EX7\bin\Debug\net5.0\EX7.runtimeconfig.json
+D:\New folder\Lesson3(2)\EX7\bin\Debug\net5.0\EX7.runtimeconfig.dev.json
+D:\New folder\Lesson3(2)\EX7\bin\Debug\net5.0\EX7.dll
+D:\New folder\Lesson3(2)\EX7\bin\Debug\net5.0\ref\EX7.dll
+D:\New folder\Lesson3(2)\EX7\bin\Debug\net5.0\EX7.pdb
+D:\New folder\Lesson3(2)\EX7\obj\Debug\net5.0\EX7.csproj.AssemblyReference.cache
+D:\New folder\Lesson3(2)\EX7\obj\Debug\net5.0\EX7.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Lesson3(2)\EX7\obj\Debug\net5.0\EX7.AssemblyInfoInputs.cache
+D:\New folder\Lesson3(2)\EX7\obj\Debug\net5.0\EX7.AssemblyInfo.cs
+D:\New folder\Lesson3(2)\EX7\obj\Debug\net5.0\EX7.csproj.CoreCompileInputs.cache
+D:\New folder\Lesson3(2)\EX7\obj\Debug\net5.0\EX7.dll
+D:\New folder\Lesson3(2)\EX7\obj\Debug\net5.0\ref\EX7.dll
+D:\New folder\Lesson3(2)\EX7\obj\Debug\net5.0\EX7.pdb
+D:\New folder\Lesson3(2)\EX7\obj\Debug\net5.0\EX7.genruntimeconfig.cache

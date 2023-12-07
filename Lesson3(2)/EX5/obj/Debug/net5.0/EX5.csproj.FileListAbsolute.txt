@@ -1,0 +1,15 @@
+D:\New folder\Lesson3(2)\EX5\bin\Debug\net5.0\EX5.exe
+D:\New folder\Lesson3(2)\EX5\bin\Debug\net5.0\EX5.deps.json
+D:\New folder\Lesson3(2)\EX5\bin\Debug\net5.0\EX5.runtimeconfig.json
+D:\New folder\Lesson3(2)\EX5\bin\Debug\net5.0\EX5.runtimeconfig.dev.json
+D:\New folder\Lesson3(2)\EX5\bin\Debug\net5.0\EX5.dll
+D:\New folder\Lesson3(2)\EX5\bin\Debug\net5.0\ref\EX5.dll
+D:\New folder\Lesson3(2)\EX5\bin\Debug\net5.0\EX5.pdb
+D:\New folder\Lesson3(2)\EX5\obj\Debug\net5.0\EX5.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Lesson3(2)\EX5\obj\Debug\net5.0\EX5.AssemblyInfoInputs.cache
+D:\New folder\Lesson3(2)\EX5\obj\Debug\net5.0\EX5.AssemblyInfo.cs
+D:\New folder\Lesson3(2)\EX5\obj\Debug\net5.0\EX5.csproj.CoreCompileInputs.cache
+D:\New folder\Lesson3(2)\EX5\obj\Debug\net5.0\EX5.dll
+D:\New folder\Lesson3(2)\EX5\obj\Debug\net5.0\ref\EX5.dll
+D:\New folder\Lesson3(2)\EX5\obj\Debug\net5.0\EX5.pdb
+D:\New folder\Lesson3(2)\EX5\obj\Debug\net5.0\EX5.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\New folder\Lesson3\Lesson3\bin\Debug\net5.0\Lesson3.exe
+D:\New folder\Lesson3\Lesson3\bin\Debug\net5.0\Lesson3.deps.json
+D:\New folder\Lesson3\Lesson3\bin\Debug\net5.0\Lesson3.runtimeconfig.json
+D:\New folder\Lesson3\Lesson3\bin\Debug\net5.0\Lesson3.runtimeconfig.dev.json
+D:\New folder\Lesson3\Lesson3\bin\Debug\net5.0\Lesson3.dll
+D:\New folder\Lesson3\Lesson3\bin\Debug\net5.0\ref\Lesson3.dll
+D:\New folder\Lesson3\Lesson3\bin\Debug\net5.0\Lesson3.pdb
+D:\New folder\Lesson3\Lesson3\obj\Debug\net5.0\Lesson3.csproj.AssemblyReference.cache
+D:\New folder\Lesson3\Lesson3\obj\Debug\net5.0\Lesson3.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Lesson3\Lesson3\obj\Debug\net5.0\Lesson3.AssemblyInfoInputs.cache
+D:\New folder\Lesson3\Lesson3\obj\Debug\net5.0\Lesson3.AssemblyInfo.cs
+D:\New folder\Lesson3\Lesson3\obj\Debug\net5.0\Lesson3.csproj.CoreCompileInputs.cache
+D:\New folder\Lesson3\Lesson3\obj\Debug\net5.0\Lesson3.dll
+D:\New folder\Lesson3\Lesson3\obj\Debug\net5.0\ref\Lesson3.dll
+D:\New folder\Lesson3\Lesson3\obj\Debug\net5.0\Lesson3.pdb
+D:\New folder\Lesson3\Lesson3\obj\Debug\net5.0\Lesson3.genruntimeconfig.cache
