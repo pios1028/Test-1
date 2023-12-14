@@ -1,0 +1,5 @@
+D:\New folder\Lesson4\Lesson4\obj\Debug\net5.0-windows\Exercise 1.csproj.AssemblyReference.cache
+D:\New folder\Lesson4\Lesson4\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\New folder\Lesson4\Lesson4\obj\Debug\net5.0-windows\App.g.cs
+D:\New folder\Lesson4\Lesson4\obj\Debug\net5.0-windows\Exercise 1_MarkupCompile.cache
+D:\New folder\Lesson4\Lesson4\obj\Debug\net5.0-windows\Exercise 1_MarkupCompile.lref

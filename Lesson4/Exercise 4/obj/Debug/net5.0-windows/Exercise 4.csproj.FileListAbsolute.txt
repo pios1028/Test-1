@@ -1,0 +1,22 @@
+D:\New folder\Lesson4\Exercise 4\bin\Debug\net5.0-windows\Exercise 4.exe
+D:\New folder\Lesson4\Exercise 4\bin\Debug\net5.0-windows\Exercise 4.deps.json
+D:\New folder\Lesson4\Exercise 4\bin\Debug\net5.0-windows\Exercise 4.runtimeconfig.json
+D:\New folder\Lesson4\Exercise 4\bin\Debug\net5.0-windows\Exercise 4.runtimeconfig.dev.json
+D:\New folder\Lesson4\Exercise 4\bin\Debug\net5.0-windows\Exercise 4.dll
+D:\New folder\Lesson4\Exercise 4\bin\Debug\net5.0-windows\ref\Exercise 4.dll
+D:\New folder\Lesson4\Exercise 4\bin\Debug\net5.0-windows\Exercise 4.pdb
+D:\New folder\Lesson4\Exercise 4\obj\Debug\net5.0-windows\Exercise 4.csproj.AssemblyReference.cache
+D:\New folder\Lesson4\Exercise 4\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\New folder\Lesson4\Exercise 4\obj\Debug\net5.0-windows\App.g.cs
+D:\New folder\Lesson4\Exercise 4\obj\Debug\net5.0-windows\Exercise 4_MarkupCompile.cache
+D:\New folder\Lesson4\Exercise 4\obj\Debug\net5.0-windows\Exercise 4_MarkupCompile.lref
+D:\New folder\Lesson4\Exercise 4\obj\Debug\net5.0-windows\MainWindow.baml
+D:\New folder\Lesson4\Exercise 4\obj\Debug\net5.0-windows\Exercise 4.g.resources
+D:\New folder\Lesson4\Exercise 4\obj\Debug\net5.0-windows\Exercise 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Lesson4\Exercise 4\obj\Debug\net5.0-windows\Exercise 4.AssemblyInfoInputs.cache
+D:\New folder\Lesson4\Exercise 4\obj\Debug\net5.0-windows\Exercise 4.AssemblyInfo.cs
+D:\New folder\Lesson4\Exercise 4\obj\Debug\net5.0-windows\Exercise 4.csproj.CoreCompileInputs.cache
+D:\New folder\Lesson4\Exercise 4\obj\Debug\net5.0-windows\Exercise 4.dll
+D:\New folder\Lesson4\Exercise 4\obj\Debug\net5.0-windows\ref\Exercise 4.dll
+D:\New folder\Lesson4\Exercise 4\obj\Debug\net5.0-windows\Exercise 4.pdb
+D:\New folder\Lesson4\Exercise 4\obj\Debug\net5.0-windows\Exercise 4.genruntimeconfig.cache
