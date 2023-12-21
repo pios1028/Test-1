@@ -1,0 +1,42 @@
+﻿<Window x:Class="Exercise_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Exercise_3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TabControl x:Name="Tabs1" Height="345" VerticalAlignment="Top">
+            <TabItem Header="Name">
+                <Grid Background="#FFFAFAFA" Margin="0,0,0,64" Cursor="">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="65*"/>
+                        <ColumnDefinition Width="729*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Content="Purushottam Rathore" Grid.Column="1" HorizontalAlignment="Left" Height="92" Margin="11,35,0,0" VerticalAlignment="Top" Width="300"/>
+
+                </Grid>
+            </TabItem>
+            <TabItem Header="Image">
+                <Image Source="/coffee.jpg" Height="200"></Image>
+            </TabItem>
+            <TabItem Header="Hotels">
+                <Image Source="/Milk.jpg" Height="200"></Image>
+            </TabItem>
+            <TabItem Header="Contact us">
+                <Grid Background="White">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Label Content="Name" HorizontalAlignment="Left" Height="33" Margin="50,34,0,0" VerticalAlignment="Top" Width="57"/>
+                    <Label Content="Email" HorizontalAlignment="Left" Height="27" Margin="50,93,0,0" VerticalAlignment="Top" Width="57"/>
+                    <TextBox HorizontalAlignment="Left" Height="33" Margin="126,34,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="139"/>
+                    <Button Content="Button" HorizontalAlignment="Left" Height="49" Margin="127,164,0,0" VerticalAlignment="Top" Width="173"/>
+                    <TextBox HorizontalAlignment="Left" Height="27" Margin="127,93,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="138"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <Button x:Name="Button1" Content="Tab Click" Click="Button1_Click" Margin="244,362,244,10" />
+    </Grid>
+</Window>

@@ -1,0 +1,44 @@
+C:\Users\PC\source\repos\Lesson 5\Exercise 1\bin\Debug\net5.0-windows\Exercise 1.exe
+C:\Users\PC\source\repos\Lesson 5\Exercise 1\bin\Debug\net5.0-windows\Exercise 1.deps.json
+C:\Users\PC\source\repos\Lesson 5\Exercise 1\bin\Debug\net5.0-windows\Exercise 1.runtimeconfig.json
+C:\Users\PC\source\repos\Lesson 5\Exercise 1\bin\Debug\net5.0-windows\Exercise 1.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Lesson 5\Exercise 1\bin\Debug\net5.0-windows\Exercise 1.dll
+C:\Users\PC\source\repos\Lesson 5\Exercise 1\bin\Debug\net5.0-windows\ref\Exercise 1.dll
+C:\Users\PC\source\repos\Lesson 5\Exercise 1\bin\Debug\net5.0-windows\Exercise 1.pdb
+C:\Users\PC\source\repos\Lesson 5\Exercise 1\obj\Debug\net5.0-windows\Exercise 1.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Lesson 5\Exercise 1\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\PC\source\repos\Lesson 5\Exercise 1\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\PC\source\repos\Lesson 5\Exercise 1\obj\Debug\net5.0-windows\Exercise 1_MarkupCompile.cache
+C:\Users\PC\source\repos\Lesson 5\Exercise 1\obj\Debug\net5.0-windows\Exercise 1_MarkupCompile.lref
+C:\Users\PC\source\repos\Lesson 5\Exercise 1\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\PC\source\repos\Lesson 5\Exercise 1\obj\Debug\net5.0-windows\Exercise 1.g.resources
+C:\Users\PC\source\repos\Lesson 5\Exercise 1\obj\Debug\net5.0-windows\Exercise 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Lesson 5\Exercise 1\obj\Debug\net5.0-windows\Exercise 1.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Lesson 5\Exercise 1\obj\Debug\net5.0-windows\Exercise 1.AssemblyInfo.cs
+C:\Users\PC\source\repos\Lesson 5\Exercise 1\obj\Debug\net5.0-windows\Exercise 1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Lesson 5\Exercise 1\obj\Debug\net5.0-windows\Exercise 1.dll
+C:\Users\PC\source\repos\Lesson 5\Exercise 1\obj\Debug\net5.0-windows\ref\Exercise 1.dll
+C:\Users\PC\source\repos\Lesson 5\Exercise 1\obj\Debug\net5.0-windows\Exercise 1.pdb
+C:\Users\PC\source\repos\Lesson 5\Exercise 1\obj\Debug\net5.0-windows\Exercise 1.genruntimeconfig.cache
+D:\Lesson 5\Exercise 1\bin\Debug\net5.0-windows\Exercise 1.exe
+D:\Lesson 5\Exercise 1\bin\Debug\net5.0-windows\Exercise 1.deps.json
+D:\Lesson 5\Exercise 1\bin\Debug\net5.0-windows\Exercise 1.runtimeconfig.json
+D:\Lesson 5\Exercise 1\bin\Debug\net5.0-windows\Exercise 1.runtimeconfig.dev.json
+D:\Lesson 5\Exercise 1\bin\Debug\net5.0-windows\Exercise 1.dll
+D:\Lesson 5\Exercise 1\bin\Debug\net5.0-windows\ref\Exercise 1.dll
+D:\Lesson 5\Exercise 1\bin\Debug\net5.0-windows\Exercise 1.pdb
+D:\Lesson 5\Exercise 1\obj\Debug\net5.0-windows\Exercise 1.csproj.AssemblyReference.cache
+D:\Lesson 5\Exercise 1\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Lesson 5\Exercise 1\obj\Debug\net5.0-windows\App.g.cs
+D:\Lesson 5\Exercise 1\obj\Debug\net5.0-windows\Exercise 1_MarkupCompile.cache
+D:\Lesson 5\Exercise 1\obj\Debug\net5.0-windows\Exercise 1_MarkupCompile.lref
+D:\Lesson 5\Exercise 1\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Lesson 5\Exercise 1\obj\Debug\net5.0-windows\Exercise 1.g.resources
+D:\Lesson 5\Exercise 1\obj\Debug\net5.0-windows\Exercise 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lesson 5\Exercise 1\obj\Debug\net5.0-windows\Exercise 1.AssemblyInfoInputs.cache
+D:\Lesson 5\Exercise 1\obj\Debug\net5.0-windows\Exercise 1.AssemblyInfo.cs
+D:\Lesson 5\Exercise 1\obj\Debug\net5.0-windows\Exercise 1.csproj.CoreCompileInputs.cache
+D:\Lesson 5\Exercise 1\obj\Debug\net5.0-windows\Exercise 1.dll
+D:\Lesson 5\Exercise 1\obj\Debug\net5.0-windows\ref\Exercise 1.dll
+D:\Lesson 5\Exercise 1\obj\Debug\net5.0-windows\Exercise 1.pdb
+D:\Lesson 5\Exercise 1\obj\Debug\net5.0-windows\Exercise 1.genruntimeconfig.cache

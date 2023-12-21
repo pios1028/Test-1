@@ -1,0 +1,22 @@
+C:\Users\PC\source\repos\Lesson 5\Exercise 2\bin\Debug\net5.0-windows\Exercise 2.exe
+C:\Users\PC\source\repos\Lesson 5\Exercise 2\bin\Debug\net5.0-windows\Exercise 2.deps.json
+C:\Users\PC\source\repos\Lesson 5\Exercise 2\bin\Debug\net5.0-windows\Exercise 2.runtimeconfig.json
+C:\Users\PC\source\repos\Lesson 5\Exercise 2\bin\Debug\net5.0-windows\Exercise 2.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Lesson 5\Exercise 2\bin\Debug\net5.0-windows\Exercise 2.dll
+C:\Users\PC\source\repos\Lesson 5\Exercise 2\bin\Debug\net5.0-windows\ref\Exercise 2.dll
+C:\Users\PC\source\repos\Lesson 5\Exercise 2\bin\Debug\net5.0-windows\Exercise 2.pdb
+C:\Users\PC\source\repos\Lesson 5\Exercise 2\obj\Debug\net5.0-windows\Exercise 2.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Lesson 5\Exercise 2\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\PC\source\repos\Lesson 5\Exercise 2\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\PC\source\repos\Lesson 5\Exercise 2\obj\Debug\net5.0-windows\Exercise 2_MarkupCompile.cache
+C:\Users\PC\source\repos\Lesson 5\Exercise 2\obj\Debug\net5.0-windows\Exercise 2_MarkupCompile.lref
+C:\Users\PC\source\repos\Lesson 5\Exercise 2\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\PC\source\repos\Lesson 5\Exercise 2\obj\Debug\net5.0-windows\Exercise 2.g.resources
+C:\Users\PC\source\repos\Lesson 5\Exercise 2\obj\Debug\net5.0-windows\Exercise 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Lesson 5\Exercise 2\obj\Debug\net5.0-windows\Exercise 2.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Lesson 5\Exercise 2\obj\Debug\net5.0-windows\Exercise 2.AssemblyInfo.cs
+C:\Users\PC\source\repos\Lesson 5\Exercise 2\obj\Debug\net5.0-windows\Exercise 2.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Lesson 5\Exercise 2\obj\Debug\net5.0-windows\Exercise 2.dll
+C:\Users\PC\source\repos\Lesson 5\Exercise 2\obj\Debug\net5.0-windows\ref\Exercise 2.dll
+C:\Users\PC\source\repos\Lesson 5\Exercise 2\obj\Debug\net5.0-windows\Exercise 2.pdb
+C:\Users\PC\source\repos\Lesson 5\Exercise 2\obj\Debug\net5.0-windows\Exercise 2.genruntimeconfig.cache
